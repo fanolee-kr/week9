@@ -1,0 +1,7 @@
+
+.venv
+output
+.env
+.ipynb_checkpoints
+credentials.json
+token.json
